@@ -1,0 +1,17 @@
+#logo_page{
+   width: 150px;
+   height:100px;
+   margin-top: 3%;
+   margin-left: 0%;
+}
+.container_tems{
+    display: inline;
+    justify-content:center;
+    flex-direction: row;
+    align-items: center;
+    
+   
+
+}
+
+
